@@ -1,0 +1,12 @@
+ t=int(input())
+for i in range(t):
+    x=int(input())
+    temp=input()
+    arr1=temp.split()
+    for item in arr1:
+        if(int(item)>=0):
+            print(item,end=" ")
+    for item in arr1:
+        if(int(item)<0):
+            print(item,end=" ")
+    print()
