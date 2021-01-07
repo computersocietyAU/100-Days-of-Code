@@ -1,0 +1,6 @@
+Move Negative Numbers to the end with extra space
+https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end/0
+Given an array of 0,1,2 sort the array without any sorting algorithm
+https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+Check if a string is a Pallindrome 
+https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
