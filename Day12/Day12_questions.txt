@@ -1,0 +1,6 @@
+1)Reverse Vowels of a String	
+https://leetcode.com/problems/reverse-vowels-of-a-string/
+2)First and Last Occurence of X	
+https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0
+3)Search in a Rotated Array	
+https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0
