@@ -1,0 +1,6 @@
+1)Valid Mountain array	
+https://leetcode.com/problems/valid-mountain-array/
+2)Generate Paranthesis
+https://leetcode.com/problems/generate-parentheses/
+3)Find Peak element
+https://leetcode.com/problems/find-peak-element/
