@@ -1,0 +1,6 @@
+1)Product array puzzle
+https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1
+2)Bishu and the Soldiers 	
+https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/
+3)K-th element of two sorted arrays	
+https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
