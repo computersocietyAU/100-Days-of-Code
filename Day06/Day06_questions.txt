@@ -1,0 +1,6 @@
+1)Random Events
+https://codeforces.com/problemset/problem/1461/C
+2)Move and Turn	
+https://codeforces.com/problemset/problem/1459/B
+3)Valid Anagram
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/

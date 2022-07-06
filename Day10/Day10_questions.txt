@@ -1,0 +1,6 @@
+1)Remove all adjacent duplicates	
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+2)Move Zeroes
+https://leetcode.com/problems/move-zeroes/
+3)Fibonacci number
+https://leetcode.com/problems/fibonacci-number/

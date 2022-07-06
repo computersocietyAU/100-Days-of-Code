@@ -1,0 +1,6 @@
+1)Kids with the greatest number of candies	
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2)Longest Substring without repeating characters	
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+3)Two Sum
+https://leetcode.com/problems/two-sum/

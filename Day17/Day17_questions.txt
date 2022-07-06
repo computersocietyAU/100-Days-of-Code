@@ -1,0 +1,6 @@
+1)Backspace String Compare
+https://leetcode.com/problems/backspace-string-compare/
+2)Set Matrix Zeroes
+https://leetcode.com/problems/set-matrix-zeroes/
+3)Sort Colours 
+https://leetcode.com/problems/sort-colors/

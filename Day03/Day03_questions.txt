@@ -1,0 +1,6 @@
+1)Find the Duplicate Element in an array of N+1 elements
+https://leetcode.com/problems/find-the-duplicate-number/
+2)Kadane's Algorithm	
+https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
+3)Validate an IP Address 
+https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1/?category[]=Strings&category[]=Strings&company[]=Amazon&company[]=Amazon&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]Stringscompany[]AmazonproblemTypefunctionaldifficulty[]0page1sortBysubmissionscompany[]Amazoncategory[]Strings

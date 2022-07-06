@@ -1,0 +1,6 @@
+1)Merge without Extra Space
+Merge Without Extra Space | Practice | GeeksforGeeks
+2)Count triplets with sum smaller than X	
+Count triplets with sum smaller than X | Practice | GeeksforGeeks
+3)Stickler Thief	
+Stickler Thief | Practice | GeeksforGeeks
